@@ -1,0 +1,4 @@
+1. Napisz Hello World we Flasku
+2. Stwórz SQL
+    -Tabela zawiera nr, imię, nazwisko, ilość Coinów
+    - Tabela zawiera nr, nagrodę, kwotę nagrody
